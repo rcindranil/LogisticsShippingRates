@@ -3,20 +3,26 @@ For GitHub practice session
 
 Please consider the following factors while contributing
 
-##Code Style:
+## Code Style:
+
 Maintain a consistent code style for readability.
 
-##Documentation:
+## Documentation:
+
 Ensure well-documented code for effective collaboration.
 
-##Testing:
+## Testing:
+
 Thoroughly test your changes before submitting a pull request.
 
-##Issue Tracker:
+## Issue Tracker:
+
 Check the Issue Tracker for tasks.
 
-##Code Review:
+## Code Review:
+
 All contributions undergo a code review process.
 
-##Licensing:
+## Licensing:
+
 Contributions are licensed.
